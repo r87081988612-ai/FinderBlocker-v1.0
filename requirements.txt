@@ -1,0 +1,9 @@
+aiohttp
+aiodns
+beautifulsoup4
+lxml
+mmh3
+simhash
+rapidfuzz
+tldextract
+PySide6

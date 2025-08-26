@@ -1,0 +1,2 @@
+This is reference content number one.
+Second reference text block for similarity detection.

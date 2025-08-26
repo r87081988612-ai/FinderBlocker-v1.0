@@ -1,0 +1,7 @@
+{
+  "keywords": ["casino", "bet", "mirror"],
+  "analytics_ids": ["UA-12345678", "G-XXXXXXX"],
+  "favicon_hashes": ["123456789"],
+  "endpoint": "https://example.com/report",
+  "auth_token": "MY_SECRET_TOKEN"
+}
